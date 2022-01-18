@@ -1,0 +1,7 @@
+.Pokedex {
+    display: grid;     
+    grid-template-columns: 13% 13% 13% 13%;     
+    grid-column-gap: 6%;     
+    justify-content: center; 
+    margin: 15px 0;
+}
